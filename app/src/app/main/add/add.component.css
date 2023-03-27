@@ -1,0 +1,13 @@
+#addForm{
+    display: none;
+}
+
+#remove{
+    background-color: red;
+    border-color: red;
+}
+
+#status{
+    background-color: green;
+    border-color: green;
+}
